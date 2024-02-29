@@ -1,0 +1,176 @@
+[
+    {
+      "id": 1,
+      "naam": "Romain ter Bruggen",
+      "beschrijving": "Een vriendelijke man die graag met mensen praat.",
+      "leeftijd": 48,
+      "actief": true,
+      "geboortedatum": "1975-05-27",
+      "profielfoto": "https://example.com/profielfoto1.jpg",
+      "geslacht": "man",
+      "hobby's": ["voetballen", "lezen"],
+      "adres": {
+        "id": 1,
+        "straat": "Berkendreef 189",
+        "postcode": "9660",
+        "woonplaats": "Elst"
+      }
+    },
+    {
+      "id": 2,
+      "naam": "Yana Kluit",
+      "beschrijving": "Een creatieve vrouw die van schilderen en muziek houdt.",
+      "leeftijd": 77,
+      "actief": true,
+      "geboortedatum": "1947-02-23",
+      "profielfoto": "https://example.com/profielfoto2.jpg",
+      "geslacht": "vrouw",
+      "hobby's": ["schilderen", "muziek maken", "reizen"],
+      "adres": {
+        "id": 2,
+        "straat": "Heirstraat 366",
+        "postcode": "5024",
+        "woonplaats": "Marche-les-Dames"
+      }
+    },
+    {
+        "id": 3,
+        "naam": "Rasha Kamman",
+        "beschrijving": "Een sportieve en een lieve vrouw",
+        "leeftijd": 33,
+        "actief": true,
+        "geboortedatum": "1990-03-31",
+        "profielfoto": "https://example.com/profielfoto1.jpg",
+        "geslacht": "vrouw",
+        "hobby's": ["volleyball", "koken"],
+        "adres": {
+          "id": 3,
+          "straat": "Rue du Château 220",
+          "postcode": "5101",
+          "woonplaats": "Lives-sur-Meuse"
+        }
+      },
+      {
+        "id": 4,
+        "naam": "Charise van der Made",
+        "beschrijving": "Een enthousiaste lerares basisonderwijs met 40 jaar ervaring.",
+        "leeftijd": 63,
+        "actief": true,
+        "geboortedatum": "1960-07-15",
+        "profielfoto": "https://example.com/profielfoto2.jpg",
+        "geslacht": "vrouw",
+        "hobby's": ["wandelen", "koken", "reizen met haar gezin"],
+        "adres": {
+          "id": 4,
+          "straat": "Ramselsesteenweg 435",
+          "postcode": "1770",
+          "woonplaats": "Liedekerke"
+        }
+      },
+      {
+        "id": 5,
+        "naam": "Ebrahim de Frel",
+        "beschrijving": "Een gedreven student in de informatica met een passie voor programmeren.",
+        "leeftijd": 29,
+        "actief": true,
+        "geboortedatum": "1994-08-09",
+        "profielfoto": "https://example.com/profielfoto1.jpg",
+        "geslacht": "man",
+        "hobby's": ["programmeren", "gamen", "lezen"],
+        "adres": {
+          "id": 5,
+          "straat": "Lambrechtstraat 328",
+          "postcode": "4190",
+          "woonplaats": "Werbomont"
+        }
+      },
+      {
+        "id": 6,
+        "naam": "Douglas Grift",
+        "beschrijving": "Een ervaren huisarts met een specialisatie in cardiologie.",
+        "leeftijd": 55,
+        "actief": true,
+        "geboortedatum": "1968-05-01",
+        "profielfoto": "https://example.com/profielfoto2.jpg",
+        "geslacht": "man",
+        "hobby's": ["zeilen", "golfen", "lezen"],
+        "adres": {
+          "id": 6,
+          "straat": "Rue du Manoir 99",
+          "postcode": "6250",
+          "woonplaats": "Aiseau"
+        }
+      },
+      {
+        "id": 7,
+        "naam": "Nathan Truijen",
+        "beschrijving": "Een getalenteerde gitarist die in een rockband speelt.",
+        "leeftijd": 52,
+        "actief": true,
+        "geboortedatum": "1971-09-08",
+        "profielfoto": "https://example.com/profielfoto1.jpg",
+        "geslacht": "man",
+        "hobby's": ["muziek maken"],
+        "adres": {
+          "id": 7,
+          "straat": "Amerveldstraat 424",
+          "postcode": "4520",
+          "woonplaats": "Huccorgne"
+        }
+      },
+      {
+        "id": 8,
+        "naam": "Jeanny Waaijer",
+        "beschrijving": "Een gedreven atlete die zich specialiseert in de 100 meter sprint.",
+        "leeftijd": 33,
+        "actief": true,
+        "geboortedatum": "1990-10-20",
+        "profielfoto": "https://example.com/profielfoto2.jpg",
+        "geslacht": "vrouw",
+        "hobby's": ["trainen", "gezond eten", "series kijken"],
+        "adres": {
+          "id": 8,
+          "straat": "Heuvenstraat 75",
+          "postcode": "8980",
+          "woonplaats": "Zonnebeke"
+        }
+      },
+      {
+        "id": 9,
+        "naam": "Davi van Veghel",
+        "beschrijving": "Een ervaren timmerman met een passie voor houtbewerking en klussen.",
+        "leeftijd": 65,
+        "actief": true,
+        "geboortedatum": "1958-04-128",
+        "profielfoto": "https://example.com/profielfoto1.jpg",
+        "geslacht": "man",
+        "hobby's": ["klussen in huis en tuin", "houtbewerken", "fietsen"],
+        "adres": {
+          "id": 9,
+          "straat": "Nieuwe Baan 329",
+          "postcode": "7320",
+          "woonplaats": "Bernissart"
+        }
+      },
+      {
+        "id": 10,
+        "naam": "Edmée Faes",
+        "beschrijving": "Een gedreven ondernemer die zijn eigen webdesignbedrijf runt.",
+        "leeftijd": 40,
+        "actief": true,
+        "geboortedatum": "1983-10-22",
+        "profielfoto": "https://example.com/profielfoto2.jpg",
+        "geslacht": "vrouw",
+        "hobby's": ["paardrijden, koken"],
+        "adres": {
+          "id": 10,
+          "straat": "Lange Elzenstraat 93",
+          "postcode": "8200",
+          "woonplaats": "Brugge"
+        }
+      }
+  ]
+  
+
+
+  
